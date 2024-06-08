@@ -5,12 +5,12 @@
 ![서비스1](https://github.com/GIT-COMMunITy/.github/assets/108571492/5d899e7e-4df5-422f-bd28-26eabfc72d03)
 
 
-### 👩‍💻기획, 개발
+## 👩‍💻기획, 개발
 | [김수진](https://github.com/cowboysj) | 
 | :--: | 
 | <img width="200" alt="수진" src="https://avatars.githubusercontent.com/u/108571492?s=400&u=1e3f0238f7f517d38c2471a3574d4173d23d987a&v=4"> | 
 
-### 🌟기능
+## 🌟기능
 ![2](https://github.com/GIT-COMMunITy/.github/assets/108571492/81ac3172-f363-46ce-8cfb-7bee33adbc70)
 
 
@@ -25,7 +25,12 @@
 
 ![9](https://github.com/GIT-COMMunITy/.github/assets/108571492/eb8d703a-0a2f-4fd0-9811-7033f8892906)
 
-### 🪧License
+## 🤗OpenSource Contribution
+1. 기여할 Repository를 Fork 해주세요.
+2. 코드를 수정한 뒤 Pull Request를 보내주세요.
+3. 리뷰 후 빠른 시일 내에 Merge 해드리겠습니다.
+
+## 🪧License
 Client, Server 모두 MIT License입니다.
 
 해당 소프트웨어를 누구라도 무상으로 제한없이 취급해도 좋습니다.
