@@ -16,14 +16,15 @@
 
 ![8](https://github.com/GIT-COMMunITy/.github/assets/108571492/895e2750-c672-43bb-9453-361d7e39a6ac)
 
+![9](https://github.com/GIT-COMMunITy/.github/assets/108571492/37108d22-0aec-4503-9a55-ca5b6616a4e6)
+
+![10](https://github.com/GIT-COMMunITy/.github/assets/108571492/ca958310-c0c2-4237-89a7-ea038e3ab4a7)
 
 ![11](https://github.com/GIT-COMMunITy/.github/assets/108571492/545b77f5-1b8f-41af-9ec3-0678632a7509)
 
 
-![10](https://github.com/GIT-COMMunITy/.github/assets/108571492/ca958310-c0c2-4237-89a7-ea038e3ab4a7)
 
 
-![9](https://github.com/GIT-COMMunITy/.github/assets/108571492/eb8d703a-0a2f-4fd0-9811-7033f8892906)
 
 ## 🤗OpenSource Contribution
 1. 기여할 Repository를 Fork 해주세요.
